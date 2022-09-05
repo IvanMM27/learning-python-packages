@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "first_try_IVANMOZUN"
+version = "0.0.1"
+authors = [
+  { name="Ivan Mozun", email="imozun27@gmail.com" },
+]
+description = "First try on packages"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/IvanMM27/learning-python-packages"
+

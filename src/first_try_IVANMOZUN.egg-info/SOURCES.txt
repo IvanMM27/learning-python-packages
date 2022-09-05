@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/first_try_IVANMOZUN/__init__.py
+src/first_try_IVANMOZUN/example.py
+src/first_try_IVANMOZUN.egg-info/PKG-INFO
+src/first_try_IVANMOZUN.egg-info/SOURCES.txt
+src/first_try_IVANMOZUN.egg-info/dependency_links.txt
+src/first_try_IVANMOZUN.egg-info/top_level.txt
